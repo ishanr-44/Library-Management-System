@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Management System", "Library Management System\Library Management System.csproj", "{E9B7CA03-23FE-444C-9642-2B9255C5A542}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NSBM Library Management System", "H:\NSBM Library Management System\Setup Installer\NSBM Library Management System\NSBM Library Management System.vdproj", "{CF457E81-F319-468D-8FAA-4935F2424F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B7CA03-23FE-444C-9642-2B9255C5A542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B7CA03-23FE-444C-9642-2B9255C5A542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B7CA03-23FE-444C-9642-2B9255C5A542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B7CA03-23FE-444C-9642-2B9255C5A542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF457E81-F319-468D-8FAA-4935F2424F46}.Debug|Any CPU.ActiveCfg = Debug
+		{CF457E81-F319-468D-8FAA-4935F2424F46}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7799BE56-7E4C-4BE7-8389-73C224935C38}
+	EndGlobalSection
+EndGlobal
